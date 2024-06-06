@@ -8,7 +8,7 @@ function App() {
     <>
     <div className=' w-full h-screen duration-200 '
     style={{backgroundColor: color}}
-    // already double curly braces so no need to add another one to inject html
+    // already double curly braces are present so no need to add another one to inject html
     >
      <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2">
 
